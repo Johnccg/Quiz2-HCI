@@ -37,13 +37,14 @@ h2 {
     height: 55px;
 }
 
-.next-level-adventure {
+.next-level-adventure > h1 {
     font-family: "Inter-ExtraBold", sans-serif;
     font-size: 20px;
     font-weight: 800;
 }
 
 .next-level-adventure:hover {
+    background: #7d7d7d;
     cursor: pointer;
 }
 
